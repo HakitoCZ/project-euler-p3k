@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''
-Problem: http://projecteuler.net/index.php?section=problems&id=1
+Problem: http://projecteuler.net/problem=1
 Solution Author: HakitoCZ
 Problem Description: 
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9.
